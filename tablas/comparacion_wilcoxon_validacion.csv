@@ -1,0 +1,10 @@
+﻿comparación,ΔMAE,p-val (obs),p-val (vuelta),% vueltas ganadas,significativo (α=0.05)
+LightGBM (L1) vs. Cero,-2.228,0.0,0.0,100.0,True
+"LightGBM (L1) vs. Promedio histórico (k, franja)",-1.857,0.0,0.0,98.15,True
+LightGBM (L1) vs. Persistencia (último valor),-0.5278,0.0,2.45e-152,93.45,True
+LightGBM (L1) vs. Lasso,-0.5243,0.0,4.12e-151,92.87,True
+LightGBM (L1) vs. Ridge,-0.5178,0.0,1.08e-150,92.95,True
+LightGBM (L1) vs. MLP,-0.119,6.3e-135,1.82e-84,81.21,True
+LightGBM (L1) vs. Random Forest,-0.0396,3.6e-41,8.95e-14,64.35,True
+LightGBM (L1) vs. HistGradientBoosting (L1),-0.0019,0.13,0.18,51.26,False
+LightGBM (L1) vs. XGBoost (L1),-0.001,7.9e-07,0.14,50.84,False

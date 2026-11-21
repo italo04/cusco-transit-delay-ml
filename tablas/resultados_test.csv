@@ -1,0 +1,6 @@
+﻿Modelo,n,MAE,RMSE,R2,% err <=1 min,% err <=2 min
+LightGBM (L1) (modelo final),17257,0.84,1.367,0.924,70.78,90.93
+Persistencia estricta (k-1) [solo con lag1],16896,1.314,1.965,0.841,67.5,86.46
+Persistencia (último valor conocido),17257,1.324,1.988,0.84,67.14,86.3
+"Promedio histórico (k, franja)",17257,2.613,4.04,0.34,32.45,58.15
+Cero,17257,2.78,5.035,-0.024,55.15,69.5

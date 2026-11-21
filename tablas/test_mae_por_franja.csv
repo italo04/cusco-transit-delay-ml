@@ -1,0 +1,6 @@
+﻿Franja Horaria,MAE Modelo (min),MAE Persistencia (min)
+Madrugada (<6h),0.712,1.15
+Mañana (6-9h),0.835,1.32
+Mediodía (9-14h),0.852,1.345
+Tarde (14-18h),0.868,1.365
+Noche (>=18h),0.82,1.29

@@ -1,0 +1,20 @@
+﻿Variable,mean |SHAP| (min)
+last_known,0.412
+lag1,0.315
+offset_min,0.128
+mean_prev,0.095
+lag2,0.064
+sched_gap_min,0.042
+hour_sched,0.035
+mon_speed_mean,0.028
+since_known,0.025
+prev_lap_mean,0.021
+n_prev_valid,0.018
+k,0.016
+mon_n,0.014
+hour_sin,0.012
+dow_sin,0.01
+lap_start_hour,0.009
+hour_cos,0.008
+franja,0.006
+dow_cat,0.005

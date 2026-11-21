@@ -1,0 +1,4 @@
+﻿Modelo,MAE OOF (media),MAE OOF (desv),Tiempo (s)
+LightGBM (L1),0.9029,0.048,142.5
+XGBoost (L1),0.9126,0.052,284.1
+HistGradientBoosting (L1),0.9275,0.055,188.3

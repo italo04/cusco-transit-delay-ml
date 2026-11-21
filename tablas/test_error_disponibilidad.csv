@@ -1,0 +1,3 @@
+﻿Disponibilidad lag1,% Muestra,MAE Modelo (min),MAE Persistencia (min),Sesgo (min)
+Con lag1 disponible (señal continua),91.8,0.829,1.258,-0.015
+Sin lag1 (punto previo faltante),8.2,1.369,1.842,-0.18

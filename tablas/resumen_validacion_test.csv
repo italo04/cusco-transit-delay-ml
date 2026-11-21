@@ -1,0 +1,5 @@
+﻿Modelo,Val MAE,Val RMSE,Val R2,Val %<=1m,Val %<=2m,Test MAE,Test RMSE,Test R2,Test %<=1m,Test %<=2m
+Cero,3.131,5.527,-0.052,51.38,65.53,2.78,5.035,-0.024,55.15,69.5
+Persistencia (último valor conocido),1.431,2.19,0.835,65.75,84.26,1.324,1.988,0.84,67.14,86.3
+"Promedio histórico (k, franja)",2.76,4.36,0.345,32.93,56.87,2.613,4.04,0.34,32.45,58.15
+LightGBM (L1) (optimizado),0.903,1.529,0.919,69.72,89.89,0.84,1.367,0.924,70.78,90.93

@@ -1,0 +1,4 @@
+﻿Modelo,Mejores Hiperparámetros,MAE OOF (media),MAE OOF (desv),Tiempo (s)
+LightGBM (L1),"{'colsample_bytree': 0.725, 'learning_rate': 0.0497, 'min_child_samples': 23, 'n_estimators': 500, 'num_leaves': 62, 'reg_lambda': 0.761, 'subsample': 0.828}",0.9029,0.048,142.5
+XGBoost (L1),"{'learning_rate': 0.038, 'max_depth': 6, 'min_child_weight': 8, 'n_estimators': 450, 'reg_lambda': 5.2, 'subsample': 0.85}",0.9126,0.052,284.1
+HistGradientBoosting (L1),"{'learning_rate': 0.045, 'max_iter': 400, 'max_leaf_nodes': 45, 'min_samples_leaf': 35}",0.9275,0.055,188.3

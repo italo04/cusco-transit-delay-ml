@@ -1,0 +1,17 @@
+# Requerimientos para la ejecución y reproducción del Entregable 2
+# Curso: 1INF02 - Aprendizaje de Máquina (PUCP 2026-2)
+# Proyecto: Predicción de Desviación Temporal del Transporte Público de Cusco
+
+numpy>=1.26.0,<=2.4.6
+pandas>=2.2.0,<=2.3.0
+scipy>=1.14.0,<=1.16.3
+scikit-learn>=1.5.0,<=1.6.1
+lightgbm>=4.5.0,<=4.7.0
+xgboost>=2.1.0,<=3.4.1
+matplotlib>=3.9.0,<=3.11.2
+seaborn>=0.13.0,<=0.13.2
+shap>=0.44.0,<=0.54.1
+joblib>=1.4.0
+python-docx>=1.1.0
+nbformat>=5.9.0
+ipykernel>=6.29.0

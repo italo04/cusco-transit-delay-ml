@@ -1,0 +1,24 @@
+﻿,aciertos,% aciertos,importancia media (RF),estado
+lag1,40,100.0,0.285,Confirmada
+last_known,40,100.0,0.185,Confirmada
+lag2,40,100.0,0.082,Confirmada
+offset_min,40,100.0,0.068,Confirmada
+mean_prev,40,100.0,0.064,Confirmada
+k,40,100.0,0.045,Confirmada
+sched_gap_min,40,100.0,0.042,Confirmada
+hour_sched,40,100.0,0.038,Confirmada
+since_known,40,100.0,0.034,Confirmada
+lap_start_hour,40,100.0,0.031,Confirmada
+n_prev_valid,39,97.5,0.029,Confirmada
+hour_sin,39,97.5,0.025,Confirmada
+dow_sin,38,95.0,0.022,Confirmada
+prev_lap_mean,38,95.0,0.021,Confirmada
+mon_n,37,92.5,0.016,Confirmada
+mon_speed_mean,36,90.0,0.018,Confirmada
+dow_cat,26,65.0,0.009,Tentativa
+franja,24,60.0,0.008,Tentativa
+mon_zero_share,2,5.0,0.002,Rechazada
+hour_cos,1,2.5,0.002,Rechazada
+lap,0,0.0,0.001,Rechazada
+dow_cos,0,0.0,0.001,Rechazada
+vehicle_id,0,0.0,0.001,Rechazada

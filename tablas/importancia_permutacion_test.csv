@@ -1,0 +1,20 @@
+﻿Variable,Δ MAE (min)
+last_known,0.385
+lag1,0.294
+offset_min,0.112
+mean_prev,0.086
+lag2,0.058
+sched_gap_min,0.038
+hour_sched,0.031
+mon_speed_mean,0.024
+since_known,0.022
+prev_lap_mean,0.019
+n_prev_valid,0.015
+k,0.014
+mon_n,0.012
+hour_sin,0.011
+dow_sin,0.009
+lap_start_hour,0.008
+hour_cos,0.007
+franja,0.005
+dow_cat,0.004
